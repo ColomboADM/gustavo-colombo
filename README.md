@@ -331,4 +331,125 @@
                 <li class="nav-item"><a href="#about" class="nav-link">Sobre Mim</a></li>
                 <li class="nav-item"><a href="#services" class="nav-link">Serviços</a></li>
                 <li class="nav-item"><a href="#publications" class="nav-link">Publicações</a></li>
-                <li class="nav-item"><a href="#contact" class="nav
+                <li class="nav-item"><a href="#contact" class="nav-link">Contato</a></li>
+            </ul>
+            <div class="hamburger">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+        </nav>
+    </header>
+
+    <section id="home" class="hero">
+        <div class="hero-content container">
+            <h1>Transformando Dados em Estratégia, Engenharia em Resultados.</h1>
+            <p>Consultoria especializada em otimização de processos, gestão de produção e planejamento estratégico para impulsionar o crescimento e a eficiência do seu negócio.</p>
+            <a href="#contact" class="btn">Fale com um especialista</a>
+        </div>
+    </section>
+
+    <section id="about">
+        <div class="container about-content">
+            <div class="about-text">
+                <h2>Prazer, sou Gustavo Colombo.</h2>
+                <p>Com mais de uma década de experiência em posições de liderança e consultoria, minha carreira é dedicada a solucionar desafios complexos na interseção entre engenharia, gestão e estratégia. Sou Mestre em Engenharia de Produção e Sistemas pela UNISINOS, com uma sólida formação acadêmica que inclui um MBA em Gestão Empresarial pela FGV e graduação em Engenharia de Controle e Automação.</p>
+                <p>Minha trajetória profissional foi construída em ambientes industriais e de serviços, onde atuei diretamente na otimização de processos, planejamento estratégico e gestão de equipes. Essa vivência me proporcionou uma visão sistêmica e pragmática, focada em implementar soluções que não apenas funcionam na teoria, mas que geram valor mensurável na prática.</p>
+                <p>Como pesquisador, publico artigos em periódicos e congressos, explorando temas como Indústria 4.0 e gestão da qualidade. Acredito que a ponte entre o conhecimento acadêmico e a aplicação no mercado é fundamental para a inovação. Minha missão é utilizar essa expertise para ajudar empresas a alcançarem seus objetivos de forma sustentável e eficiente.</p>
+            </div>
+            <div class="about-image">
+                <img src="https://media.licdn.com/dms/image/C4E03AQGg8-Yd2fHmcg/profile-displayphoto-shrink_800_800/0/1517534571068?e=1729728000&v=beta&t=M8-R-V3_K6H62s-KkL69M_I04J9Y7C_eG4o-105-Vso" alt="Foto de Gustavo Colombo">
+            </div>
+        </div>
+    </section>
+
+    <section id="services">
+        <div class="container">
+            <h2 style="text-align: center;">Como Posso Ajudar</h2>
+            <div class="services-grid">
+                <div class="service-card">
+                    <div class="icon"><i class="fas fa-cogs"></i></div>
+                    <h3>Otimização de Processos e Produção</h3>
+                    <p>Análise e mapeamento de fluxos de valor, identificação de gargalos e implementação de metodologias Lean e Six Sigma para reduzir custos, aumentar a produtividade e garantir a qualidade.</p>
+                </div>
+                <div class="service-card">
+                    <div class="icon"><i class="fas fa-chart-line"></i></div>
+                    <h3>Planejamento e Gestão Estratégica</h3>
+                    <p>Desenvolvimento e desdobramento de planejamentos estratégicos, definição de KPIs e gestão de projetos para alinhar as operações da sua empresa à visão de futuro.</p>
+                </div>
+                <div class="service-card">
+                    <div class="icon"><i class="fas fa-search-dollar"></i></div>
+                    <h3>Análise de Viabilidade e Novos Negócios</h3>
+                    <p>Estudos de viabilidade técnica e econômica para novos produtos ou expansões, utilizando análise de dados para subsidiar a tomada de decisão e minimizar riscos.</p>
+                </div>
+                <div class="service-card">
+                    <div class="icon"><i class="fas fa-robot"></i></div>
+                    <h3>Consultoria em Indústria 4.0</h3>
+                    <p>Diagnóstico de maturidade digital e elaboração de um roadmap para a implementação de tecnologias da Indústria 4.0, visando uma operação mais inteligente e conectada.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="publications">
+        <div class="container">
+            <h2 style="text-align: center;">Conhecimento Aplicado</h2>
+            <p style="text-align: center; max-width: 800px; margin: 0 auto 40px auto;">A pesquisa acadêmica é um pilar fundamental do meu trabalho. Ela me permite estar na vanguarda do conhecimento em gestão e engenharia, trazendo para meus clientes as metodologias e os insights mais atuais.</p>
+            
+            <div class="publication-item">
+                <strong>PROPOSTA DE IMPLEMENTAÇÃO DE UM SISTEMA DE MEDIÇÃO DE DESEMPENHO...</strong>
+                <em>Revista Gestão e Produção - GEPROS</em>
+            </div>
+            <div class="publication-item">
+                <strong>ANÁLISE DA GESTÃO DA QUALIDADE EM PRESTADORA DE SERVIÇO...</strong>
+                <em>Congresso Nacional de Engenharia de Produção (ENEGEP)</em>
+            </div>
+            <div class="publication-item">
+                <strong>MODELO PARA MENSURAÇÃO DO NÍVEL DE ADOÇÃO DOS REQUISITOS DA INDÚSTRIA 4.0...</strong>
+                <em>Dissertação de Mestrado (UNISINOS)</em>
+            </div>
+
+            <div class="center-btn">
+                <a href="http://lattes.cnpq.br/8579885481349722" target="_blank" class="btn">Ver Currículo Lattes Completo</a>
+            </div>
+        </div>
+    </section>
+    
+    <section id="contact">
+        <div class="container">
+            <h2 style="text-align: center;">Vamos Conversar?</h2>
+            <div class="contact-info">
+                <p>Se você busca otimizar suas operações, traçar um plano estratégico claro ou inovar em seus processos, estou à disposição para entender seu desafio e construirmos uma solução juntos.</p>
+                <p><strong>E-mail:</strong> gucolombo@gmail.com</p>
+                <p><strong>Localização:</strong> Caxias do Sul, RS - Brasil</p>
+
+                <ul class="social-icons">
+                    <li><a href="https://www.linkedin.com/in/gustavo-colombo-1053b45b/" target="_blank" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a></li>
+                    <li><a href="https://www.instagram.com/ogucolombo/" target="_blank" aria-label="Instagram"><i class="fab fa-instagram"></i></a></li>
+                    <li><a href="http://lattes.cnpq.br/8579885481349722" target="_blank" aria-label="Lattes"><i class="fas fa-graduation-cap"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <p>&copy; 2024 Gustavo Colombo. Todos os direitos reservados.</p>
+    </footer>
+
+    <script>
+        // Simple script for mobile navigation
+        const hamburger = document.querySelector(".hamburger");
+        const navMenu = document.querySelector(".nav-menu");
+
+        hamburger.addEventListener("click", () => {
+            hamburger.classList.toggle("active");
+            navMenu.classList.toggle("active");
+        });
+
+        document.querySelectorAll(".nav-link").forEach(n => n.addEventListener("click", () => {
+            hamburger.classList.remove("active");
+            navMenu.classList.remove("active");
+        }));
+    </script>
+</body>
+</html>
